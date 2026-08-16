@@ -10,9 +10,19 @@
     ]
   },
   {
+    "name": "نيڨرو",
+    "price": 1800,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEglPIp1aJ2GZV2PbapXXsyu0ZvKpjg7aCC4h8ycbzLw&s=10",
+    "colors": [
+      "اسود مزرق",
+      "اسود قاتم",
+      "اسود "
+    ]
+  },
+  {
     "name": "حذاء رياضي",
     "price": 50,
-    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJktekeFX-QGABZGuPevHN9XYcfs07ChypST1UGNCPrg&s=10",
     "colors": [
       "أبيض",
       "أحمر",
