@@ -1,7 +1,7 @@
 [
   {
     "name": "قميص عصري",
-    "price": 100,
+    "price": 20,
     "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
     "colors": [
       "أسود",
@@ -11,7 +11,7 @@
   },
   {
     "name": "ساعة فاخرة",
-    "price": 10,
+    "price": 80,
     "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d",
     "colors": [
       "فضي",
@@ -21,7 +21,7 @@
   },
   {
     "name": "حذاء رياضي",
-    "price": 60,
+    "price": 50,
     "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
     "colors": [
       "أبيض",
@@ -31,7 +31,7 @@
   },
   {
     "name": "حقيبة ظهر",
-    "price": 40,
+    "price": 100,
     "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
     "colors": [
       "أسود",
