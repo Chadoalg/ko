@@ -1,0 +1,22 @@
+[
+  {
+    "name": "هاتف ذكي",
+    "image": "https://dummyjson.com/image/300x300?text=Phone",
+    "price": "50000 دج"
+  },
+  {
+    "name": "حاسوب محمول",
+    "image": "https://dummyjson.com/image/300x300?text=Laptop",
+    "price": "120000 دج"
+  },
+  {
+    "name": "سماعات لاسلكية",
+    "image": "https://dummyjson.com/image/300x300?text=Headphones",
+    "price": "7000 دج"
+  },
+  {
+    "name": "ساعة ذكية",
+    "image": "https://dummyjson.com/image/300x300?text=Watch",
+    "price": "15000 دج"
+  }
+]
