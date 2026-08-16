@@ -1,22 +1,27 @@
 [
   {
-    "name": "هاتف ذكي",
-    "image": "https://dummyjson.com/image/300x300?text=Phone",
-    "price": "50000 دج"
+    "name": "هاتف Samsung Galaxy",
+    "image": "https://cdn.dummyjson.com/product-images/smartphones/iPhone-9/1.webp",
+    "price": "85000 دج"
   },
   {
     "name": "حاسوب محمول",
-    "image": "https://dummyjson.com/image/300x300?text=Laptop",
-    "price": "120000 دج"
+    "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-16-inch/1.webp",
+    "price": "180000 دج"
   },
   {
     "name": "سماعات لاسلكية",
-    "image": "https://dummyjson.com/image/300x300?text=Headphones",
-    "price": "7000 دج"
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+    "price": "12000 دج"
   },
   {
     "name": "ساعة ذكية",
-    "image": "https://dummyjson.com/image/300x300?text=Watch",
-    "price": "15000 دج"
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
+    "price": "25000 دج"
+  },
+  {
+    "name": "كاميرا رقمية",
+    "image": "https://cdn.dummyjson.com/product-images/cameras/nikon-dslr-camera/1.webp",
+    "price": "95000 دج"
   }
 ]
