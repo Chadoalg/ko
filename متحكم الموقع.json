@@ -1,27 +1,42 @@
 [
   {
-    "name": "هاتف Samsung Galaxy",
-    "image": "https://cdn.dummyjson.com/product-images/smartphones/iPhone-9/1.webp",
-    "price": "899000 دج"
+    "name": "قميص عصري",
+    "price": 2500,
+    "image": "https://via.placeholder.com/500x500?text=Shirt",
+    "colors": [
+      "أسود",
+      "أبيض",
+      "أزرق"
+    ]
   },
   {
-    "name": "حاسوب محمول",
-    "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-16-inch/1.webp",
-    "price": "180000 دج"
+    "name": "ساعة فاخرة",
+    "price": 8500,
+    "image": "https://via.placeholder.com/500x500?text=Watch",
+    "colors": [
+      "فضي",
+      "ذهبي",
+      "أسود"
+    ]
   },
   {
-    "name": "سماعات لاسلكية",
-    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
-    "price": "12000 دج"
+    "name": "حذاء رياضي",
+    "price": 6500,
+    "image": "https://via.placeholder.com/500x500?text=Shoes",
+    "colors": [
+      "أبيض",
+      "أحمر",
+      "رمادي"
+    ]
   },
   {
-    "name": "ساعة ذكية",
-    "image": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-moonphase/1.webp",
-    "price": "25000 دج"
-  },
-  {
-    "name": "كاميرا رقمية",
-    "image": "https://cdn.dummyjson.com/product-images/cameras/nikon-dslr-camera/1.webp",
-    "price": "95000 دج"
+    "name": "حقيبة ظهر",
+    "price": 4200,
+    "image": "https://via.placeholder.com/500x500?text=Bag",
+    "colors": [
+      "أسود",
+      "بني",
+      "أزرق"
+    ]
   }
 ]
