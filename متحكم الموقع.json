@@ -5,6 +5,7 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKW7ZGAO1livPyxvg2w-pjPIVzDWWmvjNLc_hLURMOyD4PjnTgoxiW6Ck&s=10",
     "colors": [
       "أسود",
+      "أبيض",
     ]
   },
   {
@@ -35,6 +36,16 @@
       "اسود مزرق",
       "اسود قاتم",
       "اسود "
+    ]
+  },
+  {
+    "name": "حذاء رياضي",
+    "price": 50,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "colors": [
+      "أبيض",
+      "أحمر",
+      "رمادي"
     ]
   },
   {
